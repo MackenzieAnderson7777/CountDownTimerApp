@@ -1,0 +1,16 @@
+This Privacy Policy describes the application's privacy data related policies and practices that will cover how we collect, use, process, store and/or disclose personal information about you collected through the Mobile App. Please read our privacy policy carefully.
+First, how to collect your personal information
+Personal information is data that can be used to uniquely identify or contact someone.
+When you use the App, we will collect your personal information such as email address and phone number during the process of registering users. In order to protect your privacy, you should not provide any information other than special requirements.
+This app does not have a registration feature, so we will not collect your personal information, please feel free to use it.
+Second, how to use your personal information
+1. Send your mobile app information to you through your personal information.
+Third, personal information security
+Keeping your personal data safe is critical to us. When you enter personal data in a mobile app, we encrypt it with Secure Sockets Layer (SSL).
+In both the data transfer and data retention phases, we protect the information you submit to us through widely accepted industry standards such as firewall, encryption, and data privacy legal requirements.
+However, no Internet transmission or electronic storage method is 100% secure. Therefore, although we protect your personal information in a commercially acceptable manner, there is no guarantee that the information will be absolutely secure.
+Fourth, the changes to this privacy policy
+If we decide to change our privacy policy, we will post those changes in this policy, on our website, and where we deem appropriate, so that you can understand how we collect and use your personal information, who can access it, and under what circumstances. We will disclose this information.
+We reserve the right to modify this policy at any time, so please check back frequently. If there are major changes to this policy, we will notify you by means of a push message.
+Five, privacy issues
+If you have any questions or concerns regarding privacy policy or data processing, please contact us at u79048@126.com.
