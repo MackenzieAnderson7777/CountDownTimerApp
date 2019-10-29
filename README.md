@@ -54,7 +54,7 @@ Takk skal du ha!
 谢谢！
 
 
-# Countdowner
+# CountdownerApp
 ![Countdowner logo](https://raw.githubusercontent.com/rafaelcpalmeida/Countdowner/master/img/countdownerLogo.jpg)
 
 ## How it works
