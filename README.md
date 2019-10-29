@@ -53,3 +53,30 @@ Takk skal du ha!
 
 谢谢！
 
+
+# Countdowner
+![Countdowner logo](https://raw.githubusercontent.com/rafaelcpalmeida/Countdowner/master/img/countdownerLogo.jpg)
+
+## How it works
+From out of the box Countdowner is configured to 30 minutes. If you wish to change this time just press the white cog visible on the rectangle and insert a new time, in seconds.
+
+In the images below you can see the workflow for Countdowner:
+### Step 1
+![Countdowner logo](https://raw.githubusercontent.com/rafaelcpalmeida/Countdowner/master/img/step1.jpg)
+
+### Step 2
+![Countdowner logo](https://raw.githubusercontent.com/rafaelcpalmeida/Countdowner/master/img/step2.jpg)
+
+### Step 3
+![Countdowner logo](https://raw.githubusercontent.com/rafaelcpalmeida/Countdowner/master/img/step3.jpg)
+
+In the images above you saw the flow of the **macOS** app. In the **iOS** version the app will fill the whole screen with the correspondent color.
+
+### Usage instructions
+Below you can find the instructions for **iOS** versions.
+
+### iOS
+- Single tap with one finger on the screen and the timer will start or stop, if the timer was stopped or running, accordingly.
+- Single tap with two fingers on the screen and the timer will be reseted and ready to be executed.
+- Click on the cog to set the timer, in seconds
+
