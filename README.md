@@ -3,7 +3,7 @@ If you encounter any problems while using our products, please feel free to cont
 
 Please contact us by email and we will be at your service 24 hours a day!
 
-Email address: jiachushi552511@163.com
+Email address: qiaopi749020757@163.com
 
 # Техническая поддержка
 Если у вас возникнут проблемы при использовании наших продуктов, пожалуйста, свяжитесь с нами, и мы постараемся их решить!
@@ -54,14 +54,4 @@ Takk skal du ha!
 谢谢！
 
 
-# CountdownerApp
-![Countdowner logo](https://raw.githubusercontent.com/rafaelcpalmeida/Countdowner/master/img/countdownerLogo.jpg)
-
-### Usage instructions
-Below you can find the instructions for **iOS** versions.
-
-### iOS
-- Single tap with one finger on the screen and the timer will start or stop, if the timer was stopped or running, accordingly.
-- Single tap with two fingers on the screen and the timer will be reseted and ready to be executed.
-- Click on the cog to set the timer, in seconds
 
